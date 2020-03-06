@@ -7,4 +7,4 @@ if __name__ == '__main__':
         print(ingredient)
 
     for ingredient in ingredients:
-        print(ingredient)
+        print(i, ingredient)
